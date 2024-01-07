@@ -14,7 +14,7 @@ export default function Avaiable() {
 
                     </div>
                     <div className=' text-left w-[100%] px-8 pt-7'>
-                        <h1 className=' font-bold text-2xl py-2'>Avaiable until 1 PM</h1>
+                        <h1 className=' font-bold text-2xl py-2'>Available until 1 PM</h1>
                         <p className='w-[50%]'>Would you like to create an event for coffee with Marisa at 11 AM?</p>
                         <div className='flex '>
                             <img src={img1} className='  my-4 rounded-2xl w-[100%] h-[20%]'></img>
